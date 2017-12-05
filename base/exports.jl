@@ -916,6 +916,8 @@ export
 
 # types
     convert,
+    # getproperty,
+    # setproperty!,
     fieldoffset,
     fieldname,
     fieldnames,
